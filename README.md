@@ -1,0 +1,1 @@
+Página do Discord com layout responsivo, modelo Mobile First.
